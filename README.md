@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning Kotlin compose and coroutine 
 - 💬 Ask me about Andoid development
 - 📫 How to reach me https://twitter.com/teamudaysingh
-- :call_me_hand:
--
+- :call_me_hand: +61 480240201, Whatsapp - +91 9779906719/+61 480240201
+- :email: uday144@gmail.com
+- :city_sunset: Sydney, AU
 
 I am having 10+ years of experience in software industry. Started my career in 2011 as Mobile App Developer when Android was baby and Blackberry was about to die. Now I am Infosys certified Kotlin Android developer. Skill tagged in LEX
 
