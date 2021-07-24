@@ -1,7 +1,7 @@
 
-### Hello Folks 👋
+## Hello Folks 👋
 
-Nice meeting you, I'm Uday Singh!
+## Nice meeting you, I'm Uday Singh!
 
 
 - 🔭 I’m currently working on Clean architecture on Android
@@ -15,17 +15,17 @@ Key Highlights #tags - #Android, #Kotlin, #Java, #SOLID, #Android Jetpack, #Kotl
 
 ## Profile summary 
 
-# Can build great Android mobile apps  
+## Can build great Android mobile apps  
   -  I can build robust and scalable android app from scratch leveraging all software engineering principles 
      like SOLID, Clean architecture, MVVM, Separation of concerns, Unit testable etc. I can handle the entire 
      software development life cycle, end to end. I  can design, code and test a system. I understand and 
      use design patterns in my code.  I can apply asynchronous programming, queuing, caching, logging, 
      security and persistence when appropriate.
 
-# Can Lead and Mentor
+## Can Lead and Mentor
    - I can lead a team and mentor junior developers to grow a good software engineer.
 
-# Soft skills in my toolbox 
+## Soft skills in my toolbox 
   -  Communication, teamwork, time management, emotional intelligence, accountability, problem solving, 
      approachability and helpfulness, patience , open-minded.
 
