@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on Clean architecture on Android
-- 🌱 I’m currently learning Kotlin compose and coroutine 
+- 🌱 I’m currently learning Kotlin compose and kotlin multiplatform aka KMP 
 - 💬 Ask me about Andoid development
 - 📫 How to reach me https://twitter.com/teamudaysingh
 - :call_me_hand: +61 480240201, Whatsapp - +91 9779906719/+61 480240201
